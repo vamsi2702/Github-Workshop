@@ -1,1 +1,0 @@
-print("I'm not a psychopath, I'm a high-functioning sociopath. Do your research.")
