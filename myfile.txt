@@ -1,1 +1,9 @@
 This file for made for the GitHub workshop. Making a change online using GitHub.
+
+Commands we used:
+ git clone <url>
+ git add .
+ git commit -m "message"
+ git push
+ git branch
+ git pull 
